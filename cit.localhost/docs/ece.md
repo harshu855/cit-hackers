@@ -1,4 +1,6 @@
-#<img width="252" height="254" alt="image" src="https://github.com/user-attachments/assets/098fe727-c1f9-4d7e-a990-a0ef25e51f8f" />
+ <p align="center">          
+   <img width="252" height="254" alt="image" src="https://github.com/user-attachments/assets/098fe727-c1f9-4d7e-a990-a0ef25e51f8f" />
+ </p>
 
 # Electronics and Communication Engineering
 ## Curriculum SEM III Second Year
