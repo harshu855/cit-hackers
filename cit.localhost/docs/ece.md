@@ -4,7 +4,7 @@
 <p align="center">
  Electronics and Communication Engineering
 </p>
-## Curriculum SEM III Second Year
+Curriculum SEM III Second Year
 
 [https://www.citchennai.edu.in/wp-content/uploads/Syllabus/R24%20%282024-28%29_CIT%20Curriculum_ECE.pdf]
 
